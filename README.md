@@ -45,6 +45,4 @@ It covers the full process from **ERD → Mapping → Implementation → T-SQL q
 - **Draw.io / Lucidchart** (for ERD)  
 - *DrawDiagram (for Mapping)
 
----
-
-👨‍💻 Developed by *Ahmed Islam Elsayed*
+--
